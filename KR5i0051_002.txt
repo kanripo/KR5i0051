@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:53:06.991390
+#+DATE: 2015-08-29 17:53:07.403669
 #+PROPERTY: ID KR5i0051
-#+TITLE:純陽三書 Chunyang Sanshu
+#+TITLE:純陽三書
+#+PROPERTY: pinyin Chunyang Sanshu
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-BS_KR5i0051_02p001a>¶
@@ -63,4 +64,4 @@
 　　　劉奚二眞¶
 　　　尹眞人卦爻論¶
 　　　玄宗正脈直指三要¶
-¶	
+¶
